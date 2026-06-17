@@ -448,12 +448,9 @@ footer {
 .details p{
     text-align: center;
 }
-.social-img img{
-    border: 1px solid red;
-}
 footer{
         background-size:cover;
-        border: 3px solid red;
+        
     }
     .footer-logo {
     gap: 40px;
